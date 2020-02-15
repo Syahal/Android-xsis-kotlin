@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Android XSIS</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="label_login">Form Login</string>
+    <string name="username_login">Username</string>
+    <string name="password_login">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login_now">Login</string>
+    <string name="register_user">Sign Up</string>
+    <string name="username_empty">Username belum di input</string>
+    <string name="password_empty">Password belum di Input</string>
+    <string name="field_empty">Username dan Password belum di Input</string>
+    <string name="logout">Logout</string>
+    <string name="salam">Assalamualaikum </string>
+    <string name="logout_message1">Yakin Ingin Logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logout_message2">Tekan sekali lagi untuk keluar</string>
+    <string name="labelRegister">Registration Form</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_email">Email Address</string>
+    <string name="genderMale">Male</string>
+    <string name="genderFemale">Female</string>
+    <string name="jobTitle">Job Title</string>
+    <string name="education">Education</string>
+    <string name="hobby">Hobby</string>
+    <string name="birthday">Birthday</string>
+    <string name="termsAndCondition">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies pulvinar lacus nec fringilla. Aenean porta egestas dolor, quis egestas nunc. Aliquam vitae tempor ligula. Proin nec elit quis enim eleifend vehicula nec tincidunt tellus. Nullam dapibus, enim a fermentum convallis, sapien lorem mattis est, in sagittis elit est a risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque augue odio, tristique id maximus id, pharetra id purus. Nam egestas quis elit et pellentesque. Integer id pellentesque justo. Suspendisse et lorem ut ante fermentum porttitor. Ut fringilla imperdiet lectus. Nunc gravida purus massa. Curabitur suscipit non turpis eget vulputate. In malesuada est non nibh pellentesque luctus. Nulla facilisi. Nulla ac erat viverra, efficitur lacus sit amet, placerat dui.</string>
+    <string name="agree">Agree</string>
+    <string name="register">Register User</string>
+    <string name="space">,</string>
+    <string name="menu1">List View</string>
+    <string name="menu2">Volley</string>
+    <string name="menu3">Volley JSON Parsing</string>
+    <string name="menu4">Picasso</string>
+    <string name="menu5">Glide</string>
+    <string name="menu6">Advance Parsing</string>
+    <string name="judul">Merk</string>
+    <string name="description">Description</string>
+    <string name="btn_get_string">Ambil String dari API</string>
+    <string name="btn_get_image">Ambil Image dengan Volley</string>
+
+    <string-array name="gelar_pendidikan">
+        <item>- Pilih Pendidikan -</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>D3</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </string-array>
+
+</resources>
